@@ -5,6 +5,7 @@
 ## Start Shizuku
 
 Shizuku supports startup in the following three ways.
+Rahul Kumar Singh 
 
 ::: tip If you are using GrapheneOS
 
